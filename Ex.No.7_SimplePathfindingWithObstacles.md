@@ -1,6 +1,6 @@
 # Ex.No: 7  Implementation of Simple Pathfinding with Obstacles
 ### Name:Bharathwaj P                                                                           
-### REGISTER NUMBER :212222240094
+### REGISTER NUMBER :212225240024
 ### AIM: 
 To write a program to pathfinding using AI navigation 
 ### Algorithm:
