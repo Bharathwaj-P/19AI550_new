@@ -1,4 +1,4 @@
-# Ex.No: 2  Basic movements in Unity 
+# Ex.No: 3  Basic movements in Unity 
 ### Name: Bharathwaj P                                                                           
 ### REGISTER NUMBER : 212225240024
 ### AIM: 
